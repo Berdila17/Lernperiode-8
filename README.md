@@ -16,7 +16,7 @@ Im Anschluss darauf habe ich mithilfe des Commands **println!("Hello World!");**
 
 ## 16.01.2026
 
--[ ] Daten in einer Variable speichern
--[ ] Mithilfe von Operatoren etwas ausgeben 
--[ ] Bedingungen integrieren 
--[ ] Eine Benutzereingabe integrieren bspw.Gib Name ein dann kommt Hallo Name
+- [ ] Daten in einer Variable speichern
+- [ ] Mithilfe von Operatoren etwas ausgeben 
+- [ ] Bedingungen integrieren 
+- [ ] Eine Benutzereingabe integrieren bspw.Gib Name ein dann kommt Hallo Name
