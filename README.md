@@ -16,7 +16,17 @@ Im Anschluss darauf habe ich mithilfe des Commands **println!("Hello World!");**
 
 ## 16.01.2026
 
-- [ ] Daten in einer Variable speichern
-- [ ] Mithilfe von Operatoren etwas ausgeben 
-- [ ] Bedingungen integrieren 
+- [x] Daten in einer Variable speichern
+- [x] Mithilfe von Operatoren etwas ausgeben 
+- [x] Bedingungen integrieren 
 - [ ] Eine Benutzereingabe integrieren bspw.Gib Name ein dann kommt Hallo Name
+
+Ich habe heute nicht alles schaffen könne weil ich Rust runtergeladen habe und es mir beim Download Zeit genommen hat was dann wiederhin führte das ich nicht alles erledigen konnte aber die Basics sind jetzt drauf. Rust habe ich ehrlicherweise unterschätzt und kann ein bisschen verstehen warum Leute sich über die Sprache beklagen.
+
+
+
+- [ ] Die Bedingungen ein bisschen vertiefen
+- [ ] Schleifen lernen anzuwenden und wie schreiben
+- [ ] Lernen Funktionen zu schreiben
+- [ ] Wisenn wie man Match verwendet (switch von rust)
+- [ ] Lernen wie man Collcetions anwendet 
