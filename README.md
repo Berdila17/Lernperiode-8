@@ -21,12 +21,23 @@ Im Anschluss darauf habe ich mithilfe des Commands **println!("Hello World!");**
 - [x] Bedingungen integrieren 
 - [ ] Eine Benutzereingabe integrieren bspw.Gib Name ein dann kommt Hallo Name
 
+
 Ich habe heute nicht alles schaffen könne weil ich Rust runtergeladen habe und es mir beim Download Zeit genommen hat was dann wiederhin führte das ich nicht alles erledigen konnte aber die Basics sind jetzt drauf. Rust habe ich ehrlicherweise unterschätzt und kann ein bisschen verstehen warum Leute sich über die Sprache beklagen.
 
+## 23.01.2026
 
 
-- [ ] Die Bedingungen ein bisschen vertiefen
-- [ ] Schleifen lernen anzuwenden und wie schreiben
-- [ ] Lernen Funktionen zu schreiben
-- [ ] Wisenn wie man Match verwendet (switch von rust)
-- [ ] Lernen wie man Collcetions anwendet 
+- [x] Die Bedingungen ein bisschen vertiefen
+- [x] Schleifen lernen anzuwenden und wie schreiben
+- [x] Lernen Funktionen zu schreiben
+- [x] Wisenn wie man Match verwendet (switch von rust)
+- [x] Lernen wie man Collcetions anwendet
+
+Heute habe ich alle Arbeitspakete umsetzen können dabei hab ich diesmal anders gearbeitet. Ich habe vor dem Arbeitspaket jeweils dann immer ChatGBT nach einem Theorieinput gefragt bei dem er mir alles erklären soll.Ich habe mich sauber durchgearbeitet und neues dazu gelernt. Diese 5 Arbeitspakete konnte ich meiner meinung nach effektiv bearbeiten.
+
+
+## 13.02.2026
+
+- [ ] Eingabe vom User ausgeben
+- [ ] Ownership Basics
+- [ ] Mini Additionsprogramm bauen also man gibt 2 Zahlen ein und raus kommt die Summe
